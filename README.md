@@ -1,1 +1,1 @@
-# odin-recipes
+Current project is to build a basic HTML site for recipes. Once completed, I will have demonstrated the ability to build html on a basic level. # odin-recipes
